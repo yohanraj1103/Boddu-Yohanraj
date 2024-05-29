@@ -1,4 +1,4 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image1.gif)]
+[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
 <h1 align="center">Hi 👋, I'm BODDU YOHANRAJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQAAAA?rs=1&pid=ImgDetMain">
